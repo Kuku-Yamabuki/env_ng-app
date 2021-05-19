@@ -1,0 +1,15 @@
+{
+    "name": "Angular Env",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/project",
+    "extensions": [
+        "vismalietuva.vscode-angular-support",
+        "ghaschel.vscode-angular-html",
+        "1tontech.angular-material",
+        
+    ],
+    "settings": {
+      "editor.tabSize": 2,
+    },
+  }
